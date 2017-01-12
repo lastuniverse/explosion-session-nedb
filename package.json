@@ -1,0 +1,30 @@
+{
+  "name": "explosion-session-nedb",
+  "version": "0.0.1",
+  "description": "use NeDB for explosion-session",
+  "main": "index.js",
+  "directories": {},
+  "dependencies": {
+    "explosion-session": ""
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastuniverse/explosion-session-nedb.git"
+  },
+  "keywords": [
+    "server",
+    "websocket",
+    "explosion",
+    "session",
+    "database",
+    "nedb",
+  ],
+  "author": "lastuniverse\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRoman Surmanidze aka lastuniverse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastuniverse/explosion-session-nedb/issues"
+  },
+  "homepage": "https://github.com/lastuniverse/explosion-session-nedb#readme"
+}
